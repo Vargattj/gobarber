@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\varga\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add express
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\varga\bin;C:\Users\varga\Desktop\cmder_mini (3)\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\varga\Desktop\cmder_mini (3)\vendor\conemu-maximus5;C:\Users\varga\Desktop\cmder_mini (3)\vendor\conemu-maximus5\ConEmu;C:\program files (x86)\common files\oracle\java\javapath;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0;C:\windows\system32\openssh;C:\program files\git\cmd;C:\xampp\php;C:\programdata\composersetup\bin;C:\hashicorp\vagrant\bin;C:\gradle\bin;C:\program files (x86)\common files\oracle\java\javapat;C:\program files\nvidia corporation\nvidia nvdlisr;C:\xampp\ph;C:\Program Files\Dart\da;%NVM_HOME%;%NVM_SYMLINK%;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\ProgramData\chocolatey\bin;C:\Users\varga\AppData\Local\Microsoft\WindowsApps;C:\Users\varga\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PhpStorm 2019.1.2\bin;C:\Users\varga\AppData\Roaming\Composer\vendor\bin;C:\program files (x86)\common files\oracle\java\javapat;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0;C:\windows\system32\openssh;C:\program files\git\cmd;C:\xampp\php;C:\programdata\composersetup\bin;C:\hashicorp\vagrant\bin;C:\gradle\bin;C:\program files (x86)\common files\oracle\java\javapat;C:\program files\nvidia corporation\nvidia nvdlisr;C:\xampp\ph;C:\Program Files\Dart\da;%NVM_HOME%;%NVM_SYMLINK%;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\ProgramData\chocolatey\bin;C:\Users\varga\AppData\Local\Android\Sdk\tools;C:\Users\varga\AppData\Local\Android\Sdk\platform-tools";C:\Program Files\Java\jdk1.8.0_211\bin;C:\src\flutter\bin;C:\Users\varga\AppData\Roaming\np;.;C:\Users\varga\AppData\Roaming\nvm\v12.13.0\bin;C:\Users\varga\AppData\Roaming\npm;C:\Users\varga\AppData\Local\Programs\Microsoft VS Code\bin;C:\src\flutter\.pub-cache\bin;C:\Program Files\Dart\dart-sdk\bin;C:\Users\varga\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\varga\AppData\Local\Microsoft\WindowsApps
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.13.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+
+npm manifest: 
+  {
+    "name": "gobarber",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
